@@ -1,3 +1,3 @@
 # COSC111b-LabAct1
 
-asdasdasd
+# Laboratory Activity #1: Working with Digital Signals
