@@ -10,5 +10,5 @@ Transaction ID : https://www.perplexity.ai/search/looping-in-arduino-7Tg6RhgARi.
 
 Members :
 - Bautists, Jobel King (Leader) 
-- Azul, Sheila (95) 
-- Peralta, Carl (98) 
+- Azul, Sheila (97) 
+- Peralta, Carl (100) 
