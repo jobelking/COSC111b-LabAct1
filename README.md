@@ -2,8 +2,8 @@
 
 AI Agent Used : Perplexity AI
 
-Transaction ID : https://www.perplexity.ai/search/looping-in-arduino-7Tg6RhgARi.iiqBjjcTelg
-
 PROMPTS USED:
-- LOOPING IN ARDUINO
-- LOOPING THRU DIFFERENT LEDPINS
+- Looping in Arduino
+- Looping thru different ledpins
+
+Transaction ID : https://www.perplexity.ai/search/looping-in-arduino-7Tg6RhgARi.iiqBjjcTelg
